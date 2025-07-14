@@ -69,10 +69,43 @@ Combines high-stakes operational awareness from construction with emerging techn
 
 ## 💼 Professional Experience
 
-**Tower Crane Operator** — Various Contractors (20XX–Present)  
-- Operated precision equipment at high-risk job sites  
-- Maintained detailed operational logs and safety compliance  
-- Demonstrated focus, spatial reasoning, and technical troubleshooting under pressure
+**Tower Crane Operator** – Uperio USA  
+*April 2023 – Present*  
+- Operate tower cranes on high-risk commercial construction projects  
+- Assist with technical and mechanical repairs of tower cranes, including electrical and electronic systems  
+- Maintain compliance with NCCCO certification standards  
+- Perform precision lifts while coordinating with rigging and safety teams
+
+**Tower Crane Operator** – Baker Concrete Construction  
+*May 2012 – April 2023*  
+- Operated tower cranes on major structural and high-rise builds  
+- Performed minor repairs and supported preventative maintenance on crane systems  
+- Maintained detailed lift logs and safety documentation
+
+**Tower Crane Operator / Heavy Equipment Transport** – Miller Long & Arnold  
+*April 2007 – May 2012*  
+- Operated tower cranes and performed heavy hauling of equipment using lowboy trailers  
+- Transported crane sections and structural materials across job sites and states  
+- Maintained a clean **Class A CDL** for over-the-road operations  
+- Supported field crews in crane assembly, breakdown, and transport readiness
+
+**Owner & Operator – Loucks Auto Transport**  
+*Self-employed | [Insert years]*  
+- Founded and managed a successful vehicle transport business  
+- Handled DOT compliance, scheduling, and customer communications  
+- Oversaw vehicle safety checks, logistics coordination, and multi-state delivery
+
+**Founder – Independent Trucking Business**  
+*Launched at age 19 | [Insert year]*  
+- Established and ran a trucking business focused on local freight transport  
+- Gained early experience with scheduling, equipment maintenance, and logistics
+
+**General Manager – Domino’s Pizza**  
+*[Insert years]*  
+- Took over a failing 2-star location and successfully rebuilt it into a 5-star top performer  
+- Increased profitability, improved team performance, and reduced staff turnover  
+- Managed hiring, training, inventory, customer satisfaction, and daily operations
+
 
 ---
 
