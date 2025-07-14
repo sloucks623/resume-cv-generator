@@ -126,7 +126,7 @@ Skilled at bridging operational realities with technical defense solutions — w
 - Supported field contractors and logistics during delivery
 
 **Founder – Loucks Transport (Independent Trucking)**  
-*Launched at age 19 (circa 1985–1986)*  
+*Launched at age 18 (circa 1985–1986)*  
 - Founded first trucking business as a young entrepreneur  
 - Handled freight contracts, equipment maintenance, and scheduling
 
