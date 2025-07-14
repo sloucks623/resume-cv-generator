@@ -14,9 +14,12 @@ last_updated: 2025-07-13
 
 ## 🎯 Summary
 
-Veteran and career-transitioning professional with strong hands-on skills in cybersecurity, virtual lab environments, scripting, and system troubleshooting. Currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University while building a technical portfolio of self-hosted labs, security projects, and certifications.
+Multidisciplinary professional transitioning into cybersecurity with a strong foundation in technical operations, risk management, and system troubleshooting. Over 15 years of experience in tower crane operations, heavy equipment logistics, and hands-on mechanical/electrical repair. Founded and ran multiple trucking and transport businesses, and managed warehouse and field operations in manufacturing and logistics environments.
 
-Combines high-stakes operational awareness from construction with emerging technical acumen in threat detection, SOC automation, and Active Directory environments.
+U.S. Navy veteran with experience supporting weapons systems and unmanned aerial platforms, bringing a disciplined, mission-focused mindset to modern security practices. Currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University, backed by a growing portfolio of hands-on labs, projects, and industry-recognized certifications (CompTIA Security+, Network+, A+, ISC² CC, and Linux Essentials).
+
+Skilled at bridging operational realities with technical defense solutions — with a proven ability to adapt, lead, and deliver under pressure.
+
 
 ---
 
