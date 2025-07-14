@@ -84,7 +84,7 @@ Skilled at bridging operational realities with technical defense solutions — w
 
 **Tower Crane Operator** – Baker Concrete Construction  
 *May 2012 – April 2023*  
-- Operated tower cranes for structural and vertical concrete construction  
+- Operated tower cranes for high-rise structural concrete construction  
 - Maintained lift safety logs and conducted pre-lift inspections  
 - Supported field teams in load control, rigging communication, and site safety compliance
 
