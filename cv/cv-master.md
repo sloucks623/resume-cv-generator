@@ -30,11 +30,14 @@ Combines high-stakes operational awareness from construction with emerging techn
 
 ## 🎖 Certifications
 
-- CompTIA Security+ (Verified via Credly)  
-- CompTIA Network+  
 - CompTIA A+  
-- ISC² Certified in Cybersecurity (CC)  
-- [Add others as earned]
+- CompTIA Network+  
+- CompTIA Security+  
+- **CompTIA Operations Specialist** (Stackable: A+ + Network+)  
+- **CompTIA Secure Infrastructure Specialist** (Stackable: A+ + Network+ + Security+)  
+- Linux Professional Institute Linux Essentials  
+- ISC² Certified in Cybersecurity (CC)
+
 
 ---
 
