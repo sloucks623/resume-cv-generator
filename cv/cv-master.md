@@ -90,7 +90,7 @@ Skilled at bridging operational realities with technical defense solutions — w
 
 **Tower Crane Operator / Heavy Hauling** – Miller Long & Arnold  
 *April 2007 – May 2012*  
-- Operated tower cranes and performed heavy hauling of cranes and materials using lowboy trailers  
+- Operated tower cranes and performed heavy hauling of cranes and materials.  
 - Transported structural components between active sites  
 - Participated in crane assembly, breakdown, and inter-site mobility  
 - Maintained a Class A CDL and handled DOT compliance
